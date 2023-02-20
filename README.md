@@ -17,7 +17,11 @@ Once both the server and client are running there are a couple of routes to acce
 - http://localhost:3000/management - This is the management page where you can see the list of active sessions and click on a session to watch it
 - http://localhost:3000/management/live/:id - And the live pages where based on the session id you can join and watch the live session
 
-There is also a short demo video of the project running in the root directory called `demo.mp4`
+
+
+https://user-images.githubusercontent.com/8316977/220126908-149680d6-dbe6-471f-8782-afd53dcbc708.mp4
+
+
 
 ### Required Functionality
 
