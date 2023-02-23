@@ -1,4 +1,4 @@
-# streamdom-challenge
+# Dom Transmission Challenge
 To run the project locally, you will need to have [Node.js](https://nodejs.org/en/) installed on your machine.
  Once you have Node.js installed, you can run the following commands in the root directory to get started:
 ```
